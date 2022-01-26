@@ -1,4 +1,6 @@
 string name = "Martin";
 int age = 28;
-string city = "Chicago"
+string city = "Chicago";
 string text = "random text))";
+string newText = "Hello MAN";
+//comment
