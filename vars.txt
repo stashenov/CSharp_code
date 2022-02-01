@@ -4,3 +4,6 @@ string city = "Chicago";
 string text = "random text))";
 string newText = "Hello MAN";
 
+//comment1
+//comment2
+---------------
