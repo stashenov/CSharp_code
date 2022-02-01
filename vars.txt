@@ -5,5 +5,9 @@ string text = "random text))";
 string newText = "Hello MAN";
 
 
+<<<<<<< HEAD
 +
 //comment
+=======
+//good day
+>>>>>>> 0a4483dcac92e4186160d1509990646b5aad5a40
