@@ -3,4 +3,8 @@ int age = 28;
 string city = "Chicago";
 string text = "random text))";
 string newText = "Hello MAN";
+<<<<<<< HEAD
 
+=======
+//comment
+>>>>>>> parent of 78b545d (new changes in file txt)
