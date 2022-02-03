@@ -1,6 +1,3 @@
 string name = "Martin";
 int age = 28;
 string city = "Chicago";
-
-fff
-ddd
